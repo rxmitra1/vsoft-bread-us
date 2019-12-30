@@ -1,0 +1,8 @@
+com\vsoft\chitti\CrossOriginResourceSharingFilter.class
+com\vsoft\chitti\repository\EmployeeRepository.class
+com\vsoft\chitti\bean\Employee.class
+com\vsoft\chitti\ChittiApp.class
+com\vsoft\chitti\controller\FirstController.class
+com\vsoft\chitti\bean\Address.class
+com\vsoft\chitti\repository\UserRegRepository.class
+com\vsoft\chitti\bean\UserReg.class
